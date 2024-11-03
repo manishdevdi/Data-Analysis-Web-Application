@@ -66,7 +66,7 @@ def main():
 
     # Main content based on the selected activity
     if choice == "Home":
-        st.header("Welcome to Data with Manish Devdi")
+        st.header("Welcome to Data Analyzing Web Application with Manish Devdi")
         st.write("""
         This application offers a variety of tools to help you explore, visualize, preprocess, and analyze your data. 
         You can perform Exploratory Data Analysis, visualize your data, preprocess it for machine learning, and even apply 
