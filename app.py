@@ -55,7 +55,7 @@ body {
 # Define the main function
 def main():
     # Set the title and configuration of the Streamlit page
-    st.set_page_config(page_title="Manish Devdi with Data", layout="wide")
+    st.set_page_config(page_title="Data Analysis Web Application", layout="wide")
 
     # Display custom CSS
     st.markdown(custom_css, unsafe_allow_html=True)
@@ -66,7 +66,7 @@ def main():
 
     # Main content based on the selected activity
     if choice == "Home":
-        st.header("Welcome to Data Analyzing Web Application with Manish Devdi")
+        st.header("Welcome to Data Analysis Web Application ")
         st.write("""
         This application offers a variety of tools to help you explore, visualize, preprocess, and analyze your data. 
         You can perform Exploratory Data Analysis, visualize your data, preprocess it for machine learning, and even apply 
