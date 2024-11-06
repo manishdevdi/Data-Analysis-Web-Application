@@ -27,7 +27,6 @@ Ensure you have Python installed, preferably version 3.7 or above. You can downl
 ### Installation
 
 1. Clone the repository:
-   ```bash
 https://github.com/manishdevdi/Data-Analysis-Web-Application.git
 
 2. Install the required packages:
