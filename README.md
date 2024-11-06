@@ -1,5 +1,8 @@
 # Data Analysis Web Application
 
+![Python](https://img.shields.io/badge/Python-3.8-blueviolet)
+![Framework](https://img.shields.io/badge/Framework-sreamlit-red)
+
 This repository contains a web application built with Streamlit in Python, designed to perform and display data analysis in an interactive and user-friendly interface.
 
 ## Features Of Data Analysis Web App
@@ -53,7 +56,7 @@ pip install -r requirements.txt
   Screenshots
 
 # License
-Distributed under the MIT License. See LICENSE(https://github.com/manishdevdi/Data-Analysis-Web-Application/blob/main/LICENSE) for more information.
+Distributed under the MIT License. See [LICENSE](https://github.com/manishdevdi/Data-Analysis-Web-Application/blob/main/LICENSE) for more information.
 
 ## Upcomming Features for the WebApp:
 - More **Supporting data Formates**.
@@ -62,7 +65,7 @@ Distributed under the MIT License. See LICENSE(https://github.com/manishdevdi/Da
 - And many more...
 
 # Contact
-Your Name - Email(manishdevdi778@gmail.com) - GitHub Profile(https://github.com/manishdevdi)
+Manish Devdi - [Email](manishdevdi778@gmail.com) - [GitHub Profile](https://github.com/manishdevdi)
 
 Project Link: https://github.com/manishdevdi/Data-Analysis-Web-Application
 
