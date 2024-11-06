@@ -53,7 +53,7 @@ pip install -r requirements.txt
   Screenshots
 
 # License
-Distributed under the MIT License. See License(https://github.com/manishdevdi/Data-Analysis-Web-Application/blob/main/LICENSE) for more information.
+Distributed under the MIT License. See LICENSE(https://github.com/manishdevdi/Data-Analysis-Web-Application/blob/main/LICENSE) for more information.
 
 ## Upcomming Features for the WebApp:
 - More **Supporting data Formates**.
