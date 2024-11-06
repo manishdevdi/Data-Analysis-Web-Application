@@ -52,14 +52,17 @@ pip install -r requirements.txt
 - Machine Learning (Optional): If the dataset is compatible, apply predefined models to make predictions or classifications.
   Screenshots
 
-
-
-License
-Distributed under the MIT License. See  for more information.
+# License
+Distributed under the MIT License. See License(https://github.com/manishdevdi/Data-Analysis-Web-Application/blob/main/LICENSE) for more information.
 
 ## Upcomming Features for the WebApp:
 - More **Supporting data Formates**.
 - **Improving the UI** of the WEB APP.
 - More **Detailed Analysis** of The data.
-- And many more... 
+- And many more...
+
+# Contact
+Your Name - Email(manishdevdi778@gmail.com) - GitHub Profile(https://github.com/manishdevdi)
+
+Project Link: https://github.com/manishdevdi/Data-Analysis-Web-Application
 
