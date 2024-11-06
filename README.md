@@ -28,5 +28,38 @@ Ensure you have Python installed, preferably version 3.7 or above. You can downl
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+https://github.com/manishdevdi/Data-Analysis-Web-Application.git
+
+2. Install the required packages:
+bash
+pip install -r requirements.txt
+
+# How to run the project?
+1. Clone or download this repository to your local machine.
+2. Install all the libraries mentioned in the requirements.txt file with the command pip3 install -r requirements.txt
+3. Open your terminal/command prompt from your project directory and run the file app.py by executing the command streamlit run app.py.
+4. You will be automatically redirected the your localhost in brower where you can see you WebApp in live.
+
+bash
+streamlit run app.py
+This will launch the application on a local server, which you can access at http://localhost:8501 in your web browser.
+
+# Usage
+- Upload a Dataset: Use the upload button to add your own dataset (CSV format).
+- Data Overview: The app provides an overview of the dataset with basic details like shape, missing values, and data types.
+- Exploratory Data Analysis (EDA): Visualize data distribution, correlations, and relationships.
+- Data Cleaning: Options for handling missing values and other basic cleaning operations.
+- Machine Learning (Optional): If the dataset is compatible, apply predefined models to make predictions or classifications.
+  Screenshots
+
+
+
+License
+Distributed under the MIT License. See @requirements.txt for more information.
+
+# Upcomming Features for the WebApp:
+- More Supporting data Formates.
+- Improving the UI of the WEB APP.
+- More Detailed Analysis of The data.
+- And many more...
+
