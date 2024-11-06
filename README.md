@@ -65,7 +65,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/manishdevdi/
 - And many more...
 
 # Contact
-Manish Devdi - [Email](https://mail.google.com/mail/u/1/#inbox) - [GitHub Profile](https://github.com/manishdevdi)
+Manish Devdi - [GitHub Profile](https://github.com/manishdevdi)
 
 Project Link: https://github.com/manishdevdi/Data-Analysis-Web-Application
 
